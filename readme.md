@@ -1,6 +1,7 @@
-Learn AI
+# Learn AI
 
-Instruction:
-- Make virtual environment: python -m venv learnAIvenv
-- Activate virtual environment: ./learnAIvenv/Scripts/activate
-- Install dependencies: pip install -r requirements.txt
+# Instruction
+
+1. Make virtual environment: ```python -m venv learnAIvenv
+2. Activate virtual environment: ./learnAIvenv/Scripts/activate
+3. Install dependencies: pip install -r requirements.txt

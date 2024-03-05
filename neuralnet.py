@@ -25,4 +25,7 @@ layer1 = Layer_Dense(2, 5)
 activation1 = Activation_ReLU()
 
 layer1.forward(X)
+print(layer1.output)
+print()
 activation1.forward(layer1.output)
+print(activation1.output)
